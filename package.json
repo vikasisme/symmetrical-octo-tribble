@@ -1,0 +1,26 @@
+{
+  "name": "symmetrical-octo-tribble",
+  "version": "1.0.0",
+  "description": "Fullstack React GraphQL Typescript Project ",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "dev": "nodemon dist/index.js",
+    "start": "node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasisme/symmetrical-octo-tribble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikasisme/symmetrical-octo-tribble/issues"
+  },
+  "homepage": "https://github.com/vikasisme/symmetrical-octo-tribble#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.17",
+    "nodemon": "^2.0.6",
+    "typescript": "^4.1.3"
+  }
+}
